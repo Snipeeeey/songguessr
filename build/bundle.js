@@ -2077,7 +2077,7 @@ var app = (function () {
         name: "Frank Ocean - Pink + White"
 	}, {
         url: "https://soundcloud.com/michetta-knox/kendrick-lamar-love-feat",
-        name: "Kendrick Lamar - LOVE. FEAT. ZACARI.
+        name: "Kendrick Lamar - LOVE. FEAT. ZACARI."
 	}, {
         url: "https://soundcloud.com/hykeemcarter/16a1",
         name: "Baby Keem - 16"
